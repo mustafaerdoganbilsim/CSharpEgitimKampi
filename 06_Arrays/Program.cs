@@ -79,7 +79,21 @@ namespace _06_Arrays
             //}
 
             //Console.WriteLine(maxNumbers);
+            //
+            ////int[] numbers = {75,32,54,874,12,2,98,654 };
+            //Array.Sort(numbers);
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    Console.WriteLine(numbers[i]);
+            //}
+            //Array.Reverse(numbers);
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    Console.WriteLine(numbers[i]);
+            //}
             #endregion
+
+            
             Console.Read();
         }
     }
