@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_MakingDecision(Karar_Yap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Loops", "04_Loops\04_Loops.csproj", "{055CABC1-40F8-4949-8F71-05BFA67B7DB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_LoopsWithStars", "05_LoopsWithStars\05_LoopsWithStars.csproj", "{55306278-9539-4811-A4A1-52C7C6243443}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{055CABC1-40F8-4949-8F71-05BFA67B7DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{055CABC1-40F8-4949-8F71-05BFA67B7DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{055CABC1-40F8-4949-8F71-05BFA67B7DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55306278-9539-4811-A4A1-52C7C6243443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55306278-9539-4811-A4A1-52C7C6243443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55306278-9539-4811-A4A1-52C7C6243443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55306278-9539-4811-A4A1-52C7C6243443}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
