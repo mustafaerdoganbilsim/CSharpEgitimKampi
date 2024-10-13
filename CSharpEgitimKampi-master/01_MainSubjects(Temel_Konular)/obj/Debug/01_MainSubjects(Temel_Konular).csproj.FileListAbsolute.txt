@@ -1,0 +1,7 @@
+C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\01_MainSubjects(Temel_Konular)\bin\Debug\01_MainSubjects(Temel_Konular).exe.config
+C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\01_MainSubjects(Temel_Konular)\bin\Debug\01_MainSubjects(Temel_Konular).exe
+C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\01_MainSubjects(Temel_Konular)\bin\Debug\01_MainSubjects(Temel_Konular).pdb
+C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\01_MainSubjects(Temel_Konular)\obj\Debug\01_MainSubjects(Temel_Konular).csproj.AssemblyReference.cache
+C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\01_MainSubjects(Temel_Konular)\obj\Debug\01_MainSubjects(Temel_Konular).csproj.CoreCompileInputs.cache
+C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\01_MainSubjects(Temel_Konular)\obj\Debug\01_MainSubjects(Temel_Konular).exe
+C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\01_MainSubjects(Temel_Konular)\obj\Debug\01_MainSubjects(Temel_Konular).pdb

@@ -1,0 +1,7 @@
+C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\02_Varibles\bin\Debug\02_Varibles.exe.config
+C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\02_Varibles\bin\Debug\02_Varibles.exe
+C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\02_Varibles\bin\Debug\02_Varibles.pdb
+C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\02_Varibles\obj\Debug\02_Varibles.csproj.AssemblyReference.cache
+C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\02_Varibles\obj\Debug\02_Varibles.csproj.CoreCompileInputs.cache
+C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\02_Varibles\obj\Debug\02_Varibles.exe
+C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\02_Varibles\obj\Debug\02_Varibles.pdb
