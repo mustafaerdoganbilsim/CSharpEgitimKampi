@@ -1,7 +1,0 @@
-C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\03_MakingDecision(Karar_Yapıları)\bin\Debug\03_MakingDecision(Karar_Yapıları).exe.config
-C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\03_MakingDecision(Karar_Yapıları)\bin\Debug\03_MakingDecision(Karar_Yapıları).exe
-C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\03_MakingDecision(Karar_Yapıları)\bin\Debug\03_MakingDecision(Karar_Yapıları).pdb
-C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\03_MakingDecision(Karar_Yapıları)\obj\Debug\03_MakingDecision(Karar_Yapıları).csproj.AssemblyReference.cache
-C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\03_MakingDecision(Karar_Yapıları)\obj\Debug\03_MakingDecision(Karar_Yapıları).csproj.CoreCompileInputs.cache
-C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\03_MakingDecision(Karar_Yapıları)\obj\Debug\03_MakingDecision(Karar_Yapıları).exe
-C:\Users\Bilişim\source\repos\CSharpEgitimKampi-master\03_MakingDecision(Karar_Yapıları)\obj\Debug\03_MakingDecision(Karar_Yapıları).pdb
