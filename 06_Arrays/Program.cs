@@ -138,36 +138,36 @@ namespace _06_Arrays
 
             //Console.WriteLine(sum);
 
-            int[] numbers = { 21, 42, 52, 69, 65, 458, 954, 2541 };
-            Console.WriteLine("Çift Sayılar");
-            Console.WriteLine();
-            for (int i = 0; i < numbers.Length; i++)
-            {
+            //int[] numbers = { 21, 42, 52, 69, 65, 458, 954, 2541 };
+            //Console.WriteLine("Çift Sayılar");
+            //Console.WriteLine();
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
 
-                if (numbers[i] % 2 == 0)
-                {
-                    Console.WriteLine(numbers[i]);
-
-
-                }
-
-            }
+            //    if (numbers[i] % 2 == 0)
+            //    {
+            //        Console.WriteLine(numbers[i]);
 
 
-            Console.WriteLine("-------------------------");
-            Console.WriteLine("Tek Sayılar");
-            Console.WriteLine();
-            for (int i = 0; i < numbers.Length; i++)
-            {
+            //    }
 
-                if (numbers[i] % 2 == 1)
-                {
-                    Console.WriteLine(numbers[i]);
+            //}
 
 
-                }
+            //Console.WriteLine("-------------------------");
+            //Console.WriteLine("Tek Sayılar");
+            //Console.WriteLine();
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
 
-            }
+            //    if (numbers[i] % 2 == 1)
+            //    {
+            //        Console.WriteLine(numbers[i]);
+
+
+            //    }
+
+            //}
             #endregion
 
             Console.Read();
