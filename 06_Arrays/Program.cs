@@ -95,10 +95,79 @@ namespace _06_Arrays
 
             #region Dizi Metotlar
 
-            string[] customers = { "ali", "buse", "ayşegül", "merve", "çınar", "kaya" };
+            //string[] customers = { "ali", "buse", "ayşegül", "merve", "çınar", "kaya" };
 
-            int index = Array.IndexOf(customers, "merve");
-            Console.WriteLine(index);
+            //int index = Array.IndexOf(customers, "merve");
+            //Console.WriteLine(index);
+
+            //int[] numebers = { 45, 85, 96, 63, 74, 10, 25, 22, 36 };
+
+            //Console.WriteLine("Dizinin En Büyük Elemanı " + numebers.Max() + " Dizinin En Küçük Elemanı " + numebers.Min());
+
+
+            #endregion
+
+            #region Kullanıcıdan Değer Alma
+
+            //string[] cities = new string[5];
+
+            //for (int i = 0; i < cities.Length; i++)
+            //{
+
+            //    Console.Write($"Lütfen{i+1 }. Şehri Giriniz ");
+            //    cities[i] = Console.ReadLine();
+
+
+            //}
+
+            //Console.WriteLine();
+            //Console.WriteLine("---------------------------");
+
+            //for (int i = 0; i < cities.Length; i++)
+            //{
+            //    Console.WriteLine(cities[i]);
+            //}
+
+
+            //int[] numbers = { 10, 20, 30, 40, 50 };
+            //int sum=0 ;
+            //for (int i = 0; i <numbers.Length; i++)
+            //{
+            //    sum+= numbers[i] ;
+            //}
+
+            //Console.WriteLine(sum);
+
+            int[] numbers = { 21, 42, 52, 69, 65, 458, 954, 2541 };
+            Console.WriteLine("Çift Sayılar");
+            Console.WriteLine();
+            for (int i = 0; i < numbers.Length; i++)
+            {
+
+                if (numbers[i] % 2 == 0)
+                {
+                    Console.WriteLine(numbers[i]);
+
+
+                }
+
+            }
+
+
+            Console.WriteLine("-------------------------");
+            Console.WriteLine("Tek Sayılar");
+            Console.WriteLine();
+            for (int i = 0; i < numbers.Length; i++)
+            {
+
+                if (numbers[i] % 2 == 1)
+                {
+                    Console.WriteLine(numbers[i]);
+
+
+                }
+
+            }
             #endregion
 
             Console.Read();
