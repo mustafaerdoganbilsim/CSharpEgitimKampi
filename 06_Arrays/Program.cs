@@ -93,7 +93,14 @@ namespace _06_Arrays
             //}
             #endregion
 
-            
+            #region Dizi Metotlar
+
+            string[] customers = { "ali", "buse", "ayşegül", "merve", "çınar", "kaya" };
+
+            int index = Array.IndexOf(customers, "merve");
+            Console.WriteLine(index);
+            #endregion
+
             Console.Read();
         }
     }
