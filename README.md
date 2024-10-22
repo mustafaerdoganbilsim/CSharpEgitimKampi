@@ -5,7 +5,7 @@
 
 Şimdilik 7 proje. 
 
-Eğiti kampı videolarına uşalmak için; </h3> <h6 alig ="left">https://www.youtube.com/watch?v=oev5wH-_XCI&list=PLKnjBHu2xXNPmFMvGKVHA_ijjrgUyNIXr</h6>
+[Eğiti kampı videolarına uşalmak için tıklayınız;](https://www.youtube.com/watch?v=oev5wH-_XCI&list=PLKnjBHu2xXNPmFMvGKVHA_ijjrgUyNIXr) </h3> 
 
 
 - 🔭 1. Proje [Merhaba Dünya](https://github.com/mustafaerdoganbilsim/CSharpEgitimKampi/tree/master/01_MainSubjects(Temel_Konular))<p aling="left">Giriş, Merhaba Dünya, Yazdırma Komutları, String ve Int Değişkenler</p>
