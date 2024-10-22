@@ -22,4 +22,4 @@ Eğiti kampı videolarına uşalmak için; </h3> <h6 alig ="left">https://www.yo
      
 - 🔭 7. Proje [Foreach Döngüsü](https://github.com/mustafaerdoganbilsim/CSharpEgitimKampi/tree/master/07_ForeachLoop)<p aling="left">Foreach Döngüsü</p>
 
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>Not: Projeler artarak devam edecektir. Proje içerikleri hakkında ilerleyen günlerde daha ayrıntılı bir şekilde açıklamaları yapılacaktır. </p>
