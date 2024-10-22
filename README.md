@@ -1,5 +1,4 @@
-
-#💭 C# Eğitim Kampı
+💭 C# Eğitim Kampı
 
 Ben Mustafa ERDOĞAN;
 
